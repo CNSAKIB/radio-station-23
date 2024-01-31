@@ -14,7 +14,7 @@ function App() {
         <Route path="radiomaps" element={<RadioMaps />} />
         <Route path="favourites" element={<Favourites />} />
       </Routes>
-      <Player></Player>
+
     </div>
   );
 }
