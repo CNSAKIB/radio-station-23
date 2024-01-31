@@ -16,7 +16,7 @@ const Stations = () => {
                     setLoadingData(true);
                 }
             })
-    }, [stations])
+    }, [])
     return (
         <div>
             <h1 className="my-3 comp-title fs-1"><u>Radio Stations</u></h1>
