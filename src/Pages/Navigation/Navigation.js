@@ -7,7 +7,7 @@ const Navigation = () => {
     return (
         <div>
             {[false].map((expand) => (
-                <Navbar key={expand} expand={expand} className="bg-body-tertiary mb-3">
+                <Navbar bg="primary" key={expand} expand={expand} data-bs-theme="dark" className="mb-3" >
                     <Container fluid>
                         <Navbar.Brand href="#">Radio Station 23</Navbar.Brand>
                         <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />

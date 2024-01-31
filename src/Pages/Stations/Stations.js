@@ -31,6 +31,7 @@ const Stations = () => {
                     station={station}
                 ></Station>)}
             </Row>
+
         </div>
     );
 };
