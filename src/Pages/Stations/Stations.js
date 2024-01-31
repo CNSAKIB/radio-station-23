@@ -19,7 +19,7 @@ const Stations = () => {
     }, [])
     return (
         <div>
-            <h1 className="my-3 comp-title fs-1"><u>Radio Stations</u></h1>
+            <h1 className="my-3 fs-1"><u>Radio Stations</u></h1>
             <h4>Total Stations: {stations.length}</h4>
             {
                 loadingData && <Spinner animation="grow" />
