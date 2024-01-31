@@ -1,9 +1,10 @@
 import React from 'react';
+import './Player.css'
 import AudioPlayer from 'react-h5-audio-player';
 import 'react-h5-audio-player/lib/styles.css';
 const Player = () => {
     return (
-        <div className='sticky'>
+        <div className='player'>
             <AudioPlayer
                 autoPlay
                 src="http://example.com/audio.mp3"

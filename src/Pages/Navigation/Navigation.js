@@ -23,9 +23,9 @@ const Navigation = () => {
                             </Offcanvas.Header>
                             <Offcanvas.Body>
                                 <Nav className="justify-content-end flex-grow-1 pe-3">
-                                    <Nav.Link href="#action1">Browse</Nav.Link>
-                                    <Nav.Link href="#action2">Radio Map</Nav.Link>
-                                    <Nav.Link href="#action2">Favourites</Nav.Link>
+                                    <Nav.Link href="/">Browse</Nav.Link>
+                                    <Nav.Link href="radiomaps">Radio Map</Nav.Link>
+                                    <Nav.Link href="favourites">Favourites</Nav.Link>
                                 </Nav>
                             </Offcanvas.Body>
                         </Navbar.Offcanvas>
