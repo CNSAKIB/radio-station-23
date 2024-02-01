@@ -26,8 +26,8 @@ sessions.  **[Under Constraction]**
 4. Ensuring using **TypeScript and New version of React JS**
 ### Screenshots
 **Intial Home Page**
-![Alt text](Initial.png) 
+![oops!picture not found!](Initial.png) 
 **Side bar for navigation**
-![Alt text](Sidebar.png)
+![oops!picture not found!](Sidebar.png)
 **Map Using Leaflet**
-![oops!picture not found!](map.png)
+![Alt text](Map.png)
