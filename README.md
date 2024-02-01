@@ -25,4 +25,9 @@ sessions.  **[Under Constraction]**
 3. Ensuring better code quality by using **Context API and Custom Hooks**
 4. Ensuring using **TypeScript and New version of React JS**
 ### Screenshots
-![Initial Home page](Initial.png) ![Sidebar for Navigation](Sidebar.png)
+**Intial Home Page**
+![Alt text](Initial.png) 
+**Side bar for navigation**
+![Alt text](Sidebar.png)
+**Map Using Leaflet**
+![Alt text](map.png)
