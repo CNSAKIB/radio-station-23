@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Offcanvas from 'react-bootstrap/Offcanvas';
+
 const Navigation = () => {
     return (
         <div>
@@ -25,7 +26,7 @@ const Navigation = () => {
                                 <Nav className="justify-content-end flex-grow-1 pe-3">
                                     <Nav.Link href="/">Browse</Nav.Link>
                                     <Nav.Link href="radiomaps">Radio Map</Nav.Link>
-                                    <Nav.Link href="favourites">Favourites</Nav.Link>
+                                    <Nav.Link href="favourites"> <i class="fa-solid fa-heart"></i> Favourites</Nav.Link>
                                 </Nav>
                             </Offcanvas.Body>
                         </Navbar.Offcanvas>

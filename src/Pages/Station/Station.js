@@ -18,7 +18,9 @@ const Station = (props) => {
                         <br />
                         <br />
                         <span className="fw-bold text-white" style={{ backgroundColor: 'coral' }}><span>Votes</span> {votes}</span>
+                        <br />
                     </Card.Text>
+
                     <AudioPlayer
                         src={url_resolved ? url_resolved : url}
                         showJumpControls={false}
@@ -28,6 +30,7 @@ const Station = (props) => {
                         customControlsSection={["ADDITIONAL_CONTROLS", "MAIN_CONTROLS", "VOLUME_CONTROLS"]}
                         autoPlayAfterSrcChange={false}
                     />
+
                 </Card.Body>
             </Card>
         </Col>

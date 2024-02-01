@@ -1,4 +1,3 @@
-import React from 'react';
 import './RadioMap.css'
 import { MapContainer, TileLayer } from 'react-leaflet';
 const RadioMaps = () => {
