@@ -30,4 +30,4 @@ sessions.  **[Under Constraction]**
 **Side bar for navigation**
 ![Alt text](Sidebar.png)
 **Map Using Leaflet**
-![Alt text](map.png)
+![oops!picture not found!](map.png)
