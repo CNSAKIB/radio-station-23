@@ -28,6 +28,4 @@ sessions.  **[Under Constraction]**
 **Intial Home Page**
 ![oops!picture not found!](Initial.png) 
 **Side bar for navigation**
-![oops!picture not found!](Sidebar.png)
-**Map Using Leaflet**
-![Alt text](Map.png)
+![oops!picture not found!](Sidebar.png) ![oops!picture not found!](Map.png)
