@@ -24,5 +24,5 @@ sessions.  **[Under Constraction]**
 2. Implimenting the favourite section
 3. Ensuring better code quality by using **Context API and Custom Hooks**
 4. Ensuring using **TypeScript and New version of React JS**
-
-![Alt text](Initial.png) ![Alt text](Sidebar.png)
+### Screenshots
+![Initial Home page](Initial.png) ![Sidebar for Navigation](Sidebar.png)
